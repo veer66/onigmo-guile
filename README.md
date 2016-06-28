@@ -1,5 +1,5 @@
 onigmo-guile
 ============
 
-I bind Onigmo for Guile for fun.
+I bind Onigmo and Guile just for fun.
 I have no intention to complete this project.
